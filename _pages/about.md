@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is **Hongyi (Jack) Zhang**. I am currently an Assistant Researcher in [Prof. Ruiliang Bai](https://person.zju.edu.cn/en/Bai_Lab)’s group at Zhejiang University. I earned an M.S. in Data Analytics and Statistics with honors from Washington University in St. Louis, where my research has been supervised by [Prof. Shinjini Kundu](https://www.mir.wustl.edu/employees/shinjini-kundu/) and [Dr. Dan Benjamini](https://irp.nih.gov/pi/dan-benjamini).
+Hi! My name is **Hongyi (Jack) Zhang**. I am currently a Research Assistant in [Prof. Ruiliang Bai](https://person.zju.edu.cn/en/Bai_Lab)’s group at Zhejiang University. I earned an M.S. in Data Analytics and Statistics with honors from Washington University in St. Louis, where my research has been supervised by [Prof. Shinjini Kundu](https://www.mir.wustl.edu/employees/shinjini-kundu/) and [Dr. Dan Benjamini](https://irp.nih.gov/pi/dan-benjamini).
 
 My research interests include artificial intelligence, machine learning, mathematical modeling, and biomedical informatics. I am especially interested in building reliable AI systems that connect rigorous statistical modeling with real-world clinical and engineering applications.
 
@@ -42,7 +42,7 @@ I can be reached at [hongyi.zhang@wustl.edu](mailto:hongyi.zhang@wustl.edu) or [
 
 # Research
 
-- *Jul 2026–Present*, **Assistant Researcher**, Zhejiang University, School of Medicine, Bai Lab, supervised by [Prof. Ruiliang Bai](https://person.zju.edu.cn/en/Bai_Lab).<br>
+- *Jul 2026–Present*, **Research Assistant**, Zhejiang University, School of Medicine, Bai Lab, supervised by [Prof. Ruiliang Bai](https://person.zju.edu.cn/en/Bai_Lab).<br>
   **Relaxation-Exchange Magnetic Resonance Imaging (REXI) for Investigating Brain Water Exchange in Alzheimer’s Disease.**
 - *Jan 2025–Present*, **Research Assistant**, Washington University in St. Louis, Computational Imaging Research Center, Medical AI Lab, supervised by [Prof. Shinjini Kundu](https://www.mir.wustl.edu/employees/shinjini-kundu/) and [Dr. Dan Benjamini](https://irp.nih.gov/pi/dan-benjamini).<br>
   **Mapping Phosphorylated Tau Using MD-MRI in Alzheimer’s Disease** (**Outstanding Master’s Research Award**).
